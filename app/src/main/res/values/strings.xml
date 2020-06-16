@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="hint1"> Digite um número </string>
+    <string name="hint2"> Digite outro número </string>
+    <string name = "btnsoma">Somar</string>
+    <string name="btnmultriplicar">Multiplicar</string>
+    <string name = "btnsub">Subtrair</string>
+    <string name="btndiv">Dividir</string>
+    <string name="result"></string>
+</resources>
